@@ -16,8 +16,8 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-  margin: 30;
-  padding: 10;
+  margin: 40;
+  padding: 20;
   border: 10;
   font-size: 100%;
   font: inherit;
