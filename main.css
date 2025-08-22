@@ -16,9 +16,9 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-  margin: 2;
-  padding: 1;
-  border: 0;
+  margin: 20;
+  padding: 10;
+  border: 10;
   font-size: 100%;
   font: inherit;
   vertical-align: baseline; }
@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
   line-height: 1; 
+	margin: 20;
 }
 
 ol, ul {
