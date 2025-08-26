@@ -43,9 +43,9 @@ div img {
 }*/
 .grid-container {
   display: grid;
-  padding: 20px;
+  padding: 10px;
   text-align: left;
-  gap: 30px;
+  gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
