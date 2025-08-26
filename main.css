@@ -24,6 +24,14 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+.grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      /* Creates columns that are at least 200px wide and
+         expand to fill available space, wrapping as needed. */
+      gap: 20px; /* Optional: adds space between grid items */
+    }
+
 body {
   -webkit-text-size-adjust: none; }
 
