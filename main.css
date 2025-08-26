@@ -43,10 +43,10 @@ div img {
 }*/
 .grid-container {
   display: grid;
-  padding: 10px;
+  padding: 20px;
   text-align: left;
-  gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 body {
