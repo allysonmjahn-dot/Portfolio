@@ -5,8 +5,8 @@ html, body, div, span, applet, object,
 h1, h2, h3, h4, h5, h6, p, img, table, caption,
 footer, header, hgroup, menu, nav, output {
   margin: 30;
-  padding: 10;
-  border: 10;
+  /*padding: 10;
+  border: 10; */
   font-size: 100%;
   font: inherit;
   vertical-align: baseline; }
@@ -37,11 +37,7 @@ div img {
   grid-template-columns: auto auto auto;
   padding: 10px;
 }
-/*.grid-container > div {
-  border: 1px solid white;
-  padding: 10px;
-  text-align: left;
-}*/
+
 .grid-container {
   display: grid;
   padding: 10px;
@@ -109,6 +105,7 @@ a {
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
   color: #f56a6a;
+  font-size: 1.5em;
   text-decoration: none; }
   a:hover {
     border-bottom-color: #f56a6a;
