@@ -24,6 +24,13 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+div {
+    display:inline-block;
+}
+div img {
+    vertical-align:top;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
