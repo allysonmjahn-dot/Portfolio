@@ -11,9 +11,9 @@ footer, header, hgroup, menu, nav, output {
   font: inherit;
   vertical-align: baseline; }
 
-article, aside, details, figcaption, figure,
+/* article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-  display: block; }
+  display: block; } */
 
 body {
   line-height: 1;
@@ -105,7 +105,7 @@ a {
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
   color: #f56a6a;
-  font-size: 1.5em;
+  font-size: 1.2em;
   padding: 10px;
   text-decoration: none; }
   a:hover {
