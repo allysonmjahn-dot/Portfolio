@@ -10,10 +10,10 @@ footer, header, hgroup, menu, nav, output {
   border: 10;
   font-size: 100%;
   font: inherit;
-  /*vertical-align: baseline;*/ }
+  vertical-align: baseline; }
 
-footer, header, hgroup, menu, nav, section {
-  display: block; }
+/*footer, header, hgroup, menu, nav, section {
+  display: block; }*/
 
 header {
   line-height: 1;
