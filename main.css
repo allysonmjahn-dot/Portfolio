@@ -109,14 +109,17 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #f56a6a;
+  /*color: #f56a6a;*/
+  color: #ad3224;
   font-size: 1.2em;
   padding: 10px;
   text-decoration: none; }
   a:hover {
-    border-bottom-color: #f56a6a;
-    color: #f56a6a !important; }
+    background-color: #d4f5a6;
+    border-bottom-color: #ad3224;
+    color: #ad3224 !important; }
     a:hover strong {
+      background-color: inherit;
       color: inherit; }
 
 strong, b {
