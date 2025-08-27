@@ -149,8 +149,10 @@ h2 {
   margin: 0 0 2em 0; }
 
 h3 {
-  color: #7f888f;
-  font-size: 1.15em; }
+  color: #3d4449;
+  font-size: 1.4em;
+  font-family: "Roboto Slab", serif;
+  font-weight: 300; }
 
 h4 {
   font-size: 1.1em; }
