@@ -15,6 +15,11 @@ footer, header, hgroup, menu, nav, output {
 footer, header, hgroup, menu, nav, section {
   display: block; } */
 
+header {
+  line-height: 1;
+  background-color: #e3fac3; 
+}
+
 body {
   line-height: 1;
 }
