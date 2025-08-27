@@ -23,6 +23,7 @@ header {
 
 body {
   line-height: 1;
+  padding: 20;
 }
 
 table {
@@ -37,19 +38,6 @@ div {
 div img {
     vertical-align:top;
 }
-
-/*.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  padding: 10px;
-}
-
-.grid-container {
-  display: grid;
-  padding: 10px;
-  text-align: left;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-}*/
 
 body {
   -webkit-text-size-adjust: none; }
@@ -141,8 +129,7 @@ h1 {
   color: #3d4449;
   font-family: "Roboto Slab", serif;
   font-weight: 500;
-  line-height: 1;
-  margin: 0 0 0em 0; }
+  line-height: 1;}
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     color: inherit;
     text-decoration: none;
@@ -150,7 +137,6 @@ h1 {
 
 h1 {
   font-size: 2em;
-  /*margin: 0 0 0em 0;*/
   margin-bottom: .5em;
   line-height: 1; }
 
