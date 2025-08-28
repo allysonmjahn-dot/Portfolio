@@ -17,7 +17,7 @@ footer, header, hgroup, menu, nav, output {
 
 header {
   line-height: 1;
-  background-color: #e6fac3;
+  background: #e6fac3;
 }
 
 body {
@@ -104,7 +104,7 @@ a {
   color: #ad3224;
   background-color: #ffffff;
   font-size: 1.2em;
-  font-weight: 150px;
+  font-weight: 200px;
   padding: 10px;
   text-decoration: none; }
   a:hover {
