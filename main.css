@@ -22,7 +22,7 @@ header {
 
 body {
   line-height: 1;
-  padding: 20px;
+  padding: 20;
 }
 
 table {
@@ -105,7 +105,7 @@ a {
   /*background-color: #ffffff;*/
   font-size: 1.2em;
   font-weight: 250px;
-  padding: 10px;
+  padding: 10;
   text-decoration: none; }
   a:hover {
     background-color: #d4f5a6;
