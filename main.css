@@ -137,7 +137,7 @@ h1 {
 
 h1 {
   font-size: 2em;
-  padding: 20px;
+  padding: 1em;
   margin-bottom: .5em;
   line-height: 1; }
 
@@ -148,20 +148,23 @@ h2 {
   font-weight: 200;
   line-height: 1;
   margin-bottom: 0em;
-  padding: 20px; }
+  padding: 1em; 
+  border: 1em; }
 
 h3 {
   color: #3d4449;
   font-size: 1.4em;
   font-family: "Roboto Slab", serif;
   font-weight: 300; 
-  padding: 20px; }
+  padding: 1em; 
+  border: 1em; }
 
 h4 {
   color: #7f888f;
   font-family: "Open Sans", sans-serif;
   font-size: 1.2em; 
-  padding: 20px; }
+  padding: 1em; 
+  border: 1em; }
 
 h5 {
   font-size: 0.9em; }
