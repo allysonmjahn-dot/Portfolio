@@ -93,7 +93,7 @@ body, input, select, textarea {
     body, input, select, textarea {
       font-size: 9pt; } }
 nav {
-  left-margin: .5em;
+  /*left-margin: .5em;*/
   top-margin: 1em;
   display:inline-block;
   /*padding: 10px;*/ }
