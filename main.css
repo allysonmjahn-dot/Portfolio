@@ -16,6 +16,8 @@ footer, header, hgroup, menu, nav, output {
   display: block; }*/
 
 header {
+  padding: 25;
+  border: 10;
   line-height: 1;
   background: #e6fac3;
 }
