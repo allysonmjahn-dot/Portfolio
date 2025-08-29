@@ -112,8 +112,8 @@ a {
   /*background-color: #ffffff;*/
   font-size: 1.2em;
   font-weight: 250px;
-  /*padding: 5;
-  border: 10;*/
+  /*padding: 5;*/
+  border: 10;
   text-decoration: none; }
   a:hover {
     background-color: #d4f5a6;
