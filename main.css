@@ -107,7 +107,7 @@ a {
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
   /*color: #f56a6a;*/
-  background-color: #eaf2cb;
+  /*background-color: #eaf2cb;*/
   color: #ad3224;
   /*background-color: #ffffff;*/
   font-size: 1.2em;
