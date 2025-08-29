@@ -130,6 +130,8 @@ em, i {
   font-style: italic; }
 
 p {
+  padding: 15;
+  border: 10;
   margin: 0 0 2em 0; }
 
 h1 {
