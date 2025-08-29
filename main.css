@@ -18,6 +18,7 @@ footer, header, hgroup, menu, nav, output {
 header {
   /*padding: 25;
   border: 10;*/
+  padding-top: 25;
   line-height: 1;
   color: #e6fac3;
   background: #e6fac3;
