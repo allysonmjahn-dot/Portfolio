@@ -112,8 +112,9 @@ a {
   /*background-color: #ffffff;*/
   font-size: 1.2em;
   font-weight: 250px;
-  /*padding: .5em;*/
-  padding: .75em .5em .5em .75em;
+  padding: .75em;
+  /*top-padding: .75em;
+  bottom-padding: .75em;*/
   border: 5;
   text-decoration: none; }
   a:hover {
